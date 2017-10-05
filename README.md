@@ -17,3 +17,5 @@ For this task, I built a web application using Firebase platform and implement a
 What I have done is modify a web chat application on the codelabs that Firebase provided. I first forked project on [github](https://github.com/firebase/friendlychat-web), and followed instruction to create a web real-time chatting application, users would like to send messages and images at anytime they want after logging in.
 
 ![image](https://github.com/Irislpx/EC601-HW2/raw/master/Friendlychat/ScreenShot2017-10-05at12.41.21PM.png)
+
+![image](https://github.com/Irislpx/EC601-HW2/raw/master/Friendlychat/ScreenShot2017-10-05at12.41.24PM.png)
